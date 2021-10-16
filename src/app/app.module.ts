@@ -9,6 +9,8 @@ import { ProductDetailComponent } from './products/product-detail/product-detail
 import { ProductItemComponent } from './products/product-list/product-item/product-item.component';
 import { HeaderComponent } from './header/header.component';
 import { SearchComponent } from './search/search.component';
+import { SolrService } from './service/solr-service';
+
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { SearchComponent } from './search/search.component';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [
+    SolrService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
