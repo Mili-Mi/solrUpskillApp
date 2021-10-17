@@ -1,0 +1,92 @@
+[
+  {
+    "pid_i" : 1,
+    "ptags_s" : ["new","phone"],
+    "pname_s" : "Apple iphone 12",
+    "pprice_i" : 12.50,
+    "pdescription_s" : "Newly launched apple phone",
+    "pquantity_i":3,
+    "pcategory_s": "mobile"
+    },
+    {
+    "pid_i" : 2,
+    "ptags_s" : ["new","phone"],
+    "pname_s" : "Apple iphone 10",
+    "pprice_i" : 12.50,
+    "pdescription_s" : "Newly launched apple phone",
+    "pquantity_i":3,
+    "pcategory_s": "mobile"
+    },
+    {
+    "pid_i" : 3,
+    "ptags_s" : ["trending","latest"],
+    "pname_s" : "Apple iphone 11",
+    "pprice_i" : 1020000,
+    "pdescription_s" : "apple phone with great features",
+    "pquantity_i":1,
+    "pcategory_s": "mobile"
+    },
+    {
+    "pid_i" : 4,
+    "ptags_s" : ["new","latest"],
+    "pname_s" : "Apple iphone 11",
+    "pprice_i" : 1020000,
+    "pdescription_s" : "apple phone with good features",
+    "pquantity_i":3,
+    "pcategory_s": "mobile phone"
+    },
+    {
+    "pid_i" : 5,
+    "ptags_s" : ["new","phone"],
+    "pname_s" : "Apple iphone 12",
+    "pprice_i" : 12.50,
+    "pdescription_s" : "Newly launched apple phone",
+    "pquantity_i":3,
+    "pcategory_s": "mobile"
+    },
+    {
+    "pid_i" : 6,
+    "ptags_s" : ["new","cars"],
+    "pname_s" : "tata tigor EV",
+    "pprice_i" : 1200000,
+    "pdescription_s" : "great quality with smooth features ",
+    "pquantity_i":3,
+    "pcategory_s": "car"
+    },
+     {
+    "pid_i" : 7,
+    "ptags_s" : ["launched","cars"],
+    "pname_s" : "Honda Amaze",
+    "pprice_i" : 600000,
+    "pdescription_s" : "great quality with great features ",
+    "pquantity_i":3,
+    "pcategory_s": "cars2021"
+    },
+     {
+    "pid_i" : 8,
+    "ptags_s" : ["new","cars"],
+    "pname_s" : "tata tigor EV",
+    "pprice_i" : 1200000,
+    "pdescription_s" :"Automated stylish and amazing",
+    "pquantity_i":3,
+    "pcategory_s": "cars"
+    },
+     {
+    "pid_i" : 9,
+    "ptags_s" : ["new","cars"],
+    "pname_s" : "Audi Rs5",
+    "pprice_i" : 12000000,
+    "pdescription_s" : "Amazing features ",
+    "pquantity_i":3,
+    "pcategory_s": "latest cars"
+    },
+     {
+    "pid_i" : 10,
+    "ptags_s" : ["new","cars"],
+    "pname_s" : "Fortuner",
+    "pprice_i" : 1000000,
+    "pdescription_s" : "great quality with stylish features",
+    "pquantity_i":3,
+    "pcategory_s": "car"
+    } 
+]
